@@ -1,1 +1,1 @@
-
+This project predicts the likelihood of a heart stroke using logistic regression. It analyzes various health parameters such as age, hypertension, smoking habits, and more to assess the risk. With optimized data preprocessing and model tuning, the project achieves an impressive accuracy of 95%. It serves as a practical application of machine learning in the healthcare domain, demonstrating how predictive analytics can support early diagnosis and prevention efforts.
